@@ -1,0 +1,3 @@
+[submodule "suba"]
+	path = suba
+	url = git@github.com:kowy-liu/subm.git
